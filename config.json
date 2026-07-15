@@ -1,13 +1,10 @@
 {
   "feeds": [
-    "https://feeds.bbci.co.uk/news/technology/rss.xml",
-    "https://www.theverge.com/rss/index.xml",
-    "https://techcrunch.com/feed/"
+    "https://feeds.bbci.co.uk/news/politics/rss.xml"
   ],
   "topics": [
-    "artificial intelligence",
-    "climate change",
-    "your topic here"
+    "war",
+    "oil"
   ],
   "similarity_threshold": 0.6,
   "update_cooldown_hours": 6,
