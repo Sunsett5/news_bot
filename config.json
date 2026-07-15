@@ -1,8 +1,10 @@
 {
   "feeds": [
-    "https://feeds.bbci.co.uk/news/politics/rss.xml"
+    "https://feeds.bbci.co.uk/news/politics/rss.xml",
+    "https://feeds.bbci.co.uk/news/world/rss.xml"
   ],
   "topics": [
+    "iran",
     "war",
     "oil"
   ],
