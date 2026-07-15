@@ -1,0 +1,16 @@
+{
+  "feeds": [
+    "https://feeds.bbci.co.uk/news/technology/rss.xml",
+    "https://www.theverge.com/rss/index.xml",
+    "https://techcrunch.com/feed/"
+  ],
+  "topics": [
+    "artificial intelligence",
+    "climate change",
+    "your topic here"
+  ],
+  "similarity_threshold": 0.6,
+  "update_cooldown_hours": 6,
+  "llm_provider": "gemini",
+  "summary_language": "th"
+}
